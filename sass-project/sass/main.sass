@@ -1,0 +1,93 @@
+//reset
+@import "reset.scss"
+// variables
+$black: #333
+$white: #f7f7f7
+$pink: #c26b98
+$font-stack: sans-serif
+
+// mixins
+=horizontal-content($display, $justify, $width, $padding)
+    display: $display
+    justify-content: $justify
+    width: $width
+    padding: $padding
+
+=thumbnails($margin, $padding, $float, $width, $overflow)
+    margin: $margin
+    padding: $padding
+    float: $float
+    width: $width
+    overflow: $overflow
+
+=heading($color, $font-size, $padding)
+    color: $color
+    font-size: $font-size
+    padding: $padding
+
+=paragraph-img($padding, $float, $width)
+    padding: $padding
+    float: $float
+    width: $width
+
+
+//styles
+body 
+    background: $white
+    font-family: $font-stack
+    margin: 1vw 2vw
+
+h1 
+    +heading($pink, 3vw, .5vw 0vw)
+
+h2 
+    +heading($pink, 1.25vw, .5vw 0vw)
+
+header
+    +horizontal-content(flex, space-between, 100%, 0vw)
+
+nav 
+    ul 
+        +horizontal-content(flex, space-around, 40vw, 1vw)
+
+h3 
+    +heading($pink, 2vw, 1vw)
+    text-align: center 
+
+h4 
+    +heading($pink, 1.25vw, 1vw)
+    text-align: center 
+
+p 
+    line-height: 2vw
+    padding: 1vw
+    font-size: 1vw
+    color: $black
+
+a 
+    text-decoration: none
+    color: $pink
+    font-size: 1vw
+
+footer 
+    +horizontal-content(flex, center, auto, 2vw)
+ 
+
+.pink-logo
+    +paragraph-img(1vw, left, 15vw)
+
+.black-logo
+    +paragraph-img(1vw, right, 15vw)
+
+.thumbnail
+    +thumbnails(.75vw, .25vw, left, 5vw, hidden)
+
+.widgets 
+    +horizontal-content(flex, space-between, 100%, 0vw)
+
+.widgets
+    section 
+        a 
+            padding: 1vw
+
+
