@@ -5,6 +5,7 @@ $black: #333
 $white: #f7f7f7
 $pink: #c26b98
 $font-stack: sans-serif
+$font-size: 1vw
 
 // mixins
 =horizontal-content($display, $justify, $width, $padding)
@@ -37,37 +38,37 @@ body
     font-family: $font-stack
     margin: 1vw 2vw
 
-h1 
-    +heading($pink, 3vw, .5vw 0vw)
-
-h2 
-    +heading($pink, 1.25vw, .5vw 0vw)
-
 header
     +horizontal-content(flex, space-between, 100%, 0vw)
+
+h1 
+    +heading($pink, $font-size + 2.5, .5vw 0vw)
+
+h2 
+    +heading($pink, $font-size + .25, .5vw 0vw)
+
+h3 
+    +heading($pink, $font-size + 1.5, 1vw)
+    text-align: center 
+
+h4 
+    +heading($pink, $font-size + .25, 1vw)
+    text-align: center 
 
 nav 
     ul 
         +horizontal-content(flex, space-around, 40vw, 1vw)
 
-h3 
-    +heading($pink, 2vw, 1vw)
-    text-align: center 
-
-h4 
-    +heading($pink, 1.25vw, 1vw)
-    text-align: center 
-
 p 
     line-height: 2vw
     padding: 1vw
-    font-size: 1vw
+    font-size: $font-size
     color: $black
 
 a 
     text-decoration: none
     color: $pink
-    font-size: 1vw
+    font-size: $font-size
 
 footer 
     +horizontal-content(flex, center, auto, 2vw)

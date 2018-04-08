@@ -54,9 +54,16 @@ body {
   margin: 1vw 2vw;
 }
 
+header {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  padding: 0vw;
+}
+
 h1 {
   color: #c26b98;
-  font-size: 3vw;
+  font-size: 3.5vw;
   padding: 0.5vw 0vw;
 }
 
@@ -66,23 +73,9 @@ h2 {
   padding: 0.5vw 0vw;
 }
 
-header {
-  display: flex;
-  justify-content: space-between;
-  width: 100%;
-  padding: 0vw;
-}
-
-nav ul {
-  display: flex;
-  justify-content: space-around;
-  width: 40vw;
-  padding: 1vw;
-}
-
 h3 {
   color: #c26b98;
-  font-size: 2vw;
+  font-size: 2.5vw;
   padding: 1vw;
   text-align: center;
 }
@@ -92,6 +85,13 @@ h4 {
   font-size: 1.25vw;
   padding: 1vw;
   text-align: center;
+}
+
+nav ul {
+  display: flex;
+  justify-content: space-around;
+  width: 40vw;
+  padding: 1vw;
 }
 
 p {
