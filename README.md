@@ -4,7 +4,6 @@
 
 Despite what tutorials tell you, DO NOT use the sudo commands when installing SASS!
 
-    - iOS -
 
     1. Create a new project directory.
     2. Navigate into that directory.
@@ -16,11 +15,6 @@ Despite what tutorials tell you, DO NOT use the sudo commands when installing SA
     
     8. Via the command line, open a new tab, and run `http-server` or `lite-server`.
 
-    - linux / windows -
-
-    1. iOS comes with Ruby, therefore, all windows / linux users must first install Ruby before installing sass.
-    
-    [https://www.ruby-lang.org/en/documentation/installation/](#)
 
 ##Getting Started
 
@@ -29,6 +23,9 @@ Despite what tutorials tell you, DO NOT use the sudo commands when installing SA
     3. Open up your project to see your changes!
 
 ##SASS Documents and Articles
+- Hampton Catlin - 
+[http://hamptoncatlin.com/](#)
+
 - SASS Wiki -
 [https://en.wikipedia.org/wiki/Sass_(stylesheet_language)](#)
 
