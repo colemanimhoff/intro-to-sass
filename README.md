@@ -26,6 +26,9 @@ Despite what tutorials tell you, DO NOT use the sudo commands when installing SA
 - Hampton Catlin - 
 [http://hamptoncatlin.com/](#)
 
+- Lighting Talk Slides -
+[https://docs.google.com/presentation/d/15-HS_Ek4_XJo7qa5cZMzrz27J4_V-BT3oDEytiqZ8AM/edit?usp=sharing](#)
+
 - SASS Wiki -
 [https://en.wikipedia.org/wiki/Sass_(stylesheet_language)](#)
 
