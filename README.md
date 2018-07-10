@@ -1,6 +1,6 @@
 ##How to install SASS
 
-[https://sass-lang.com/install](#)
+[Install SASS](https://sass-lang.com/install)
 
 Despite what tutorials tell you, DO NOT use the sudo commands when installing SASS!
 
@@ -24,28 +24,28 @@ Despite what tutorials tell you, DO NOT use the sudo commands when installing SA
 
 ##SASS Documents and Articles
 - Hampton Catlin - 
-[http://hamptoncatlin.com/](#)
+[Hampton Catlin](http://hamptoncatlin.com/)
 
 - Lighting Talk Slides -
-[https://docs.google.com/presentation/d/15-HS_Ek4_XJo7qa5cZMzrz27J4_V-BT3oDEytiqZ8AM/edit?usp=sharing](#)
+[Lighting Talk Slides](https://docs.google.com/presentation/d/15-HS_Ek4_XJo7qa5cZMzrz27J4_V-BT3oDEytiqZ8AM/edit?usp=sharing)
 
 - SASS Wiki -
-[https://en.wikipedia.org/wiki/Sass_(stylesheet_language)](#)
+[SASS Wiki](https://en.wikipedia.org/wiki/Sass_(stylesheet_language))
 
 - SASS Docs -
 
-[https://sass-lang.com/](#)
+[Sass Docs](https://sass-lang.com/)
 
 - SASS vs SCSS
 
-[http://www.thesassway.com/editorial/sass-vs-scss-which-syntax-is-better](#)
+[SASS vs SCSS](http://www.thesassway.com/editorial/sass-vs-scss-which-syntax-is-better)
 
 - SMACSS (Scalable and Modular Architecture for CSS)
 
-[https://smacss.com/](#)
+[Scalable and Modular Architecture for CSS](https://smacss.com/)
 
 - SASS BASICS
-[https://sass-lang.com/guide](#)
+[SASS Basics](https://sass-lang.com/guide)
 
 ##Tutorials
 
@@ -53,22 +53,20 @@ Brad Hussey
 
     A really good series of tutorial vidoes usings SASS syntax (skip the first video (bloopers))
 
-    [https://www.youtube.com/watch?v=aFWhf2wjJYo&list=PLUoqTnNH-2XxOt7UsKlTqbfrA2ucGosCR](#)
+    [Tutorial Videos](https://www.youtube.com/watch?v=aFWhf2wjJYo&list=PLUoqTnNH-2XxOt7UsKlTqbfrA2ucGosCR)
 
 Dev Tips
 
     Overview of how to use SASS, SCSS vs SASS syntax, how to control CSS output, and preprocessors
 
-    [https://www.youtube.com/watch?v=1XmUUa_pWw8&list=PLqGj3iMvMa4LE0uTAwo9wIFQYuGhIu7Gw](#)
+    [Tutorial Videos](https://www.youtube.com/watch?v=1XmUUa_pWw8&list=PLqGj3iMvMa4LE0uTAwo9wIFQYuGhIu7Gw)
 
 Derek Banas
 
     A tutorial using SCSS syntax
 
-    [https://www.youtube.com/watch?v=wz3kElLbEHE](#)
+    [Tutorial Videos](#https://www.youtube.com/watch?v=wz3kElLbEHE)
 
 Help People
 
-    [https://www.youtube.com/watch?v=P1G4_zxOxtk&t=17s](#)
-
-
+    [Help People](https://www.youtube.com/watch?v=P1G4_zxOxtk&t=17s)
