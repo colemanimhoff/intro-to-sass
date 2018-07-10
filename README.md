@@ -51,22 +51,22 @@ Despite what tutorials tell you, DO NOT use the sudo commands when installing SA
 
 Brad Hussey
 
-    A really good series of tutorial vidoes usings SASS syntax (skip the first video (bloopers))
+A really good series of tutorial vidoes usings SASS syntax
 
 [Tutorial Videos](https://www.youtube.com/watch?v=aFWhf2wjJYo&list=PLUoqTnNH-2XxOt7UsKlTqbfrA2ucGosCR)
 
 Dev Tips
 
-    Overview of how to use SASS, SCSS vs SASS syntax, how to control CSS output, and preprocessors
+Overview of how to use SASS, SCSS vs SASS syntax, how to control CSS output, and preprocessors
 
 [Tutorial Videos](https://www.youtube.com/watch?v=1XmUUa_pWw8&list=PLqGj3iMvMa4LE0uTAwo9wIFQYuGhIu7Gw)
 
 Derek Banas
 
-    A tutorial using SCSS syntax
+A tutorial using SCSS syntax
 
-[Tutorial Videos](#https://www.youtube.com/watch?v=wz3kElLbEHE)
+[Tutorial Videos](https://www.youtube.com/watch?v=wz3kElLbEHE)
 
 Help People
 
-[Help People](https://www.youtube.com/watch?v=P1G4_zxOxtk&t=17s)
+[Tutorial Videos](https://www.youtube.com/watch?v=P1G4_zxOxtk&t=17s)
